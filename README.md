@@ -40,7 +40,7 @@
  <a href="https://guruakash.me" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="www.linkedin.com/in/guruakash-s-m-514487246" target="_blank">
+ <a href="https://linkedin.com/in/guruakash-s-m-514487246" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
