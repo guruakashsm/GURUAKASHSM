@@ -15,7 +15,7 @@
                 <b><a target="_blank" href="https://guruakash.me">GURUAKASH SM</a></b>
         </samp>
 </h3>
-
+<br>
 <p align="center">
   <a href="https://github.com/GURUAKASHSM"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Back%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
