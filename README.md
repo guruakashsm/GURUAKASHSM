@@ -1,3 +1,48 @@
+<!-- Add a button to switch languages -->
+<button id="languageButton" onclick="toggleLanguage()">Change to Tamil</button>
+
+<script>
+  // Store your content in English and Tamil
+  const content = {
+    english: {
+      welcome: "Welcome to my Profile!",
+      // Add other English content here
+    },
+    tamil: {
+      welcome: "என் ப்ரொபைலிக்கு வரவேற்கிறது!",
+      // Add other Tamil content here
+    },
+  };
+
+  // Function to toggle between English and Tamil
+  function toggleLanguage() {
+    const languageButton = document.getElementById("languageButton");
+    const currentLanguage = languageButton.innerText.toLowerCase();
+
+    if (currentLanguage === "english") {
+      // Switch to Tamil
+      languageButton.innerText = "Change to English";
+      updateContent("tamil");
+    } else {
+      // Switch to English
+      languageButton.innerText = "Change to Tamil";
+      updateContent("english");
+    }
+  }
+
+  // Function to update the content
+  function updateContent(language) {
+    const elements = document.querySelectorAll(".translate");
+    elements.forEach((element) => {
+      const key = element.getAttribute("data-translate-key");
+      element.innerText = content[language][key];
+    });
+  }
+
+  // Initially, set the content to English
+  updateContent("english");
+</script>
+
 <h2 align="center">
   Welcome to my Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
