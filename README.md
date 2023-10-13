@@ -1,3 +1,9 @@
+
+
+<h2 align="center">
+  Welcome to my Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 <!-- Add a button to switch languages -->
 <button id="languageButton" onclick="toggleLanguage()">Change to Tamil</button>
 
@@ -42,11 +48,6 @@
   // Initially, set the content to English
   updateContent("english");
 </script>
-
-<h2 align="center">
-  Welcome to my Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
 <!-- Intro -->
 <h3 align="center">
