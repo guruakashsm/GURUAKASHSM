@@ -86,7 +86,7 @@
 [![Ecommerce Site](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=Ecommerce_site&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/Ecommerce_site)
 [![Guruaaksh PortFolio](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=Portfolio&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/Portfolio)
 [![IMAGE-SPEECH](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=IMAGE-TEXT-SPEECH&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/IMAGE-TEXT-SPEECH)
-[![ROAD HEALTH MONITORING SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=Road-health-Monitoring-sysetm&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/Road-health-Monitoring-sysetm)
+[![ROAD HEALTH MONITORING SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=Road-Health-Monitoring-System&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/Road-Health-Monitoring-System)
 
 <p align="left">
   <a href="https://github.com/GURUAKASHSM?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
